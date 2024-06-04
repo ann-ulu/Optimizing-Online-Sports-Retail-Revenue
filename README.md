@@ -11,14 +11,14 @@ Utilizes SQL queries to explore and analyze Online Sports Retail Revenue. Examin
 
 # Insights and Visualizations:
 I Explored a wide range of SQL statements and clauses, each revealing new layers of data manipulation and analysis:
-1.     Crafting strategic VIEWS
-2.     Harnessing the power of AGGREGATE FUNCTIONS for precise analysis 
-3.     Common Table Expressions(CTEs) for streamlined workflows 
-4.     Implementing ROW_NUMBER() for dynamic data ranking 
-5.     Employing Number FILTERING strategies for accuracy 
-6.     Seamlessly integrating datasets with JOINS for comprehensive analysis 
-7.     Optimizing analysis with DATE Manipulation techniques 
-8.     And so much more… See file attached for more details
+1. Crafting strategic VIEWS
+2. Harnessing the power of AGGREGATE FUNCTIONS for precise analysis 
+3. Common Table Expressions(CTEs) for streamlined workflows 
+4. Implementing ROW_NUMBER() for dynamic data ranking 
+5. Employing Number FILTERING strategies for accuracy 
+6. Seamlessly integrating datasets with JOINS for comprehensive analysis 
+7. Optimizing analysis with DATE Manipulation techniques 
+8. And so much more… See file attached for more details
 
 # Project Source: Datacamp (Optimiing Online Retail Revenue)
 
@@ -50,3 +50,5 @@ SELECT
   
 ```
 
+## open file attached to see full script
+I enjoyed every part of this project!!!
